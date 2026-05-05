@@ -1,6 +1,8 @@
 Hey there, I'm Ashwin Patil. You can visit my personal blog at [ashwin.dev](https://ashwin.dev) or contact me at [me@ashwin.dev](mailto:me@ashwin.dev) if you need help with any of my projects.
 
-I am a Data Engineer at Fetch, where I create event-driven, petabyte-scale real-time systems with single-digit microsecond latency for Machine Learning Recommender systems. This allows me to work with tools like AWS, Kubernets, Kafka, Kafka Connect, Flink, Airflow, DBT, and Snowflake, built on the Kappa architecture.
+I am a Software Engineer working on WhatsApp Server Infrastructure at Meta. I build and maintain highly scalable backend systems powering critical Groups experiences, serving billions of users worldwide. My work spans large-scale distributed systems, storage services managing terabytes of data, and infrastructure handling millions of queries per second.
+
+Previously, I was a Senior Software Engineer working supporting Data Infrastructure at Fetch, where I create event-driven, petabyte-scale real-time systems with single-digit microsecond latency for Machine Learning Recommender systems. This allows me to work with tools like AWS, Kubernets, Kafka, Kafka Connect, Flink, Airflow, DBT, and Snowflake, built on the Kappa architecture.
 
 I completed my Master's in Computer Science with a specialization in Natural Language Processing, Information Retrieval, and Deep Learning from the University of Illinois Urbana-Champaign. During my time there, I worked as a Graduate Research Assistant, advised by Prof. ChengXiang Zhai at the Text Information Management and Analysis Group (TIMAN).
 
